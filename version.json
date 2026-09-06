@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0.8",
-  "downloadUrl": "https://raw.githubusercontent.com/aymenbencherif/pocketpos-updates/refs/heads/main/PocketPOS.Desktop.Update.1.0.0.8.zip",
+  "version": "1.0.0.9",
+  "downloadUrl": "https://raw.githubusercontent.com/aymenbencherif/pocketpos-updates/refs/heads/main/PocketPOS.Desktop.Update.1.0.0.9.zip",
   "releaseNotes": "Improved performance, faster startup and several bug fixes."
 }
